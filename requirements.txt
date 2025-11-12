@@ -1,0 +1,7 @@
+dotenv
+streamlit
+typing
+httpx
+python-multipart
+sqlmodel
+aiohttp

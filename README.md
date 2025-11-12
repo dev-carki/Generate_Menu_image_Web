@@ -1,4 +1,4 @@
-# .end 작성
+# .env 작성
 ```
 FASTAPI_BASE_URL = "http://localhost:8080/api/v1"
 ```
